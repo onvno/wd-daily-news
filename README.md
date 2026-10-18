@@ -11,6 +11,7 @@
 
 | 日期 | 文本简报 | 语音版 | 当日亮点 |
 |------|----------|--------|----------|
+| 2026-10-18 | [brief-2026-10-18.md](./2026-10-18/brief-2026-10-18.md) | [brief-2026-10-18.mp3](./2026-10-18/brief-2026-10-18.mp3) | DeepSeek-V4.1-Flash 智能体基准 77 分超 Opus 5；GitHub 现象级项目 ECC（18 万+ Star）；GLM 5.2 / Qwen-AgentWorld 开源 |
 | 2026-10-17 | [brief-2026-10-17.md](./2026-10-17/brief-2026-10-17.md) | [brief-2026-10-17.mp3](./2026-10-17/brief-2026-10-17.mp3) | Reflection 开源 501B Beam；谷歌发布 Gemini 4 Argon；Agent-Reach 一周涨 8.3k star |
 | 2026-10-16 | [brief-2026-10-16.md](./2026-10-16/brief-2026-10-16.md) | [brief-2026-10-16.mp3](./2026-10-16/brief-2026-10-16.mp3) | Meta 开源 816B Muse Spark Open；Nemotron 3.5 Bolt 端侧模型；VoiceStudio / BetterWispr |
 
