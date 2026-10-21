@@ -11,6 +11,7 @@
 
 | 日期 | 文本简报 | 语音版 | 当日亮点 |
 |------|----------|--------|----------|
+| 2026-10-21 | [brief-2026-10-21.md](./2026-10-21/brief-2026-10-21.md) | [brief-2026-10-21.mp3](./2026-10-21/brief-2026-10-21.mp3) | DeepSeek 开源生产级推理框架 DeepInfer（HN 榜首，日吞吐 155 万亿 token）；ai-job-search 登顶 GitHub Trending（AI 求职一条龙）；Mistral 发布 Voxtral 3 语音 Agent 全家桶 |
 | 2026-10-20 | [brief-2026-10-20.md](./2026-10-20/brief-2026-10-20.md) | [brief-2026-10-20.mp3](./2026-10-20/brief-2026-10-20.mp3) | FLUX 3 Image Klein 开源（8GB 显存本地跑 4K 出图）；Laminar flow-1 专抓 Agent 静默失败（成本 1/23）；OpenAI 强化 COBOL 迁移并开源 MultiLangBench |
 | 2026-10-19 | [brief-2026-10-19.md](./2026-10-19/brief-2026-10-19.md) | [brief-2026-10-19.mp3](./2026-10-19/brief-2026-10-19.mp3) | StepFun 开源 600B 旗舰 Step 5 Preview；Sphinx 给 AI 代码上线前加"考试"门禁；Anthropic 自研 Scion 替换 git（开销降至 1/200） |
 | 2026-10-18 | [brief-2026-10-18.md](./2026-10-18/brief-2026-10-18.md) | [brief-2026-10-18.mp3](./2026-10-18/brief-2026-10-18.mp3) | DeepSeek-V4.1-Flash 智能体基准 77 分超 Opus 5；GitHub 现象级项目 ECC（18 万+ Star）；GLM 5.2 / Qwen-AgentWorld 开源 |
