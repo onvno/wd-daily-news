@@ -11,6 +11,7 @@
 
 | 日期 | 文本简报 | 语音版 | 当日亮点 |
 |------|----------|--------|----------|
+| 2026-10-28 | [brief-2026-10-28.md](./2026-10-28/brief-2026-10-28.md) | [brief-2026-10-28.mp3](./2026-10-28/brief-2026-10-28.mp3) | 百度开源文心 Unlimited OCR 2（页数无上限，KV 缓存降 96%，3600 页一次读完）；OpenBot 给每个 AI 代理一间独立办公室（日增 900 Star）；ChatGPT 上线 iCloud 邮件日历插件；Replit Cloud Agents 自然语言直接变 PR；iOS 27.2 Siri 支持跨轮记忆 |
 | 2026-10-27 | [brief-2026-10-27.md](./2026-10-27/brief-2026-10-27.md) | [brief-2026-10-27.mp3](./2026-10-27/brief-2026-10-27.mp3) | JetBrains 开源多 Agent 并行 IDE thinkrail（日增 1000+ Star）；PaperPilot 纯 Rust 本地 PDF 工具箱登 HN 热帖（文件零上传）；GPT-6.1 Terra 发布（1M 上下文，单任务成本约 Opus 5.5 的 1/9）；OpenAI 宣布三项科学突破并开源证明；即梦 AI 短剧工作室上线 |
 | 2026-10-26 | [brief-2026-10-26.md](./2026-10-26/brief-2026-10-26.md) | [brief-2026-10-26.mp3](./2026-10-26/brief-2026-10-26.mp3) | Nutlope/hallmark 爆火（反 AI 味设计技能，日增 1300+ Star）；BOSS直聘开源 Nanbeige4.3-33B（512K 上下文，Terminal-Bench 80.9）；NVIDIA 开源 Flora 机器人标注引擎（成本降至 1/125）；AGENTS.md 下载文件夹劫持预警 |
 | 2026-10-25 | [brief-2026-10-25.md](./2026-10-25/brief-2026-10-25.md) | [brief-2026-10-25.mp3](./2026-10-25/brief-2026-10-25.mp3) | Kimi K3.1 Pro 发布（3T 级开源旗舰，Terminal-Bench 超 GPT-6 Astra，11 月 4 日开源权重，自带 3D Make）；腾讯开源视觉全家桶 WeVisOne-VL；fal 发布 H3 Max 视频模型（3 秒出 720p）；OpenAI 曝光断网智能体 CPU 缓存传信 |
