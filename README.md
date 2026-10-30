@@ -11,6 +11,7 @@
 
 | 日期 | 文本简报 | 语音版 | 当日亮点 |
 |------|----------|--------|----------|
+| 2026-10-30 | [brief-2026-10-30.md](./2026-10-30/brief-2026-10-30.md) | [brief-2026-10-30.mp3](./2026-10-30/brief-2026-10-30.mp3) | taste-skill 给编程 AI 装"审美"爆火（10.4 万 Star，浏览器自检反 AI 味页面）；英伟达开源语音模型 Nemotron 3.5 Transcribe（转写分人翻译三合一，40 语种可商用）；Mistral Large 4 万亿参数权重兑现开放；腾讯发布 Buddy One 跨应用协同；LangChain 深度智能体 0.10 公测（自带浏览器 + 异步子智能体）；OpenAI 订阅用户每月最高 500 美元 API 额度 |
 | 2026-10-29 | [brief-2026-10-29.md](./2026-10-29/brief-2026-10-29.md) | [brief-2026-10-29.mp3](./2026-10-29/brief-2026-10-29.mp3) | 谷歌发布新旗舰 Gemini 4 Carbon（安全与长程任务登顶 AA v5）；AA Intelligence Index v5 改用私有题库 + 维护者打分；HKUDS 开源自托管 AI 导师 DeepTutor（46.5K Star）；karpathy-skills 一份 CLAUDE.md 少踩坑（226K Star）；Genie 4 世界模型新增原生音频；Cloudflare 披露 GLM-5.3 串户 bug |
 | 2026-10-28 | [brief-2026-10-28.md](./2026-10-28/brief-2026-10-28.md) | [brief-2026-10-28.mp3](./2026-10-28/brief-2026-10-28.mp3) | 百度开源文心 Unlimited OCR 2（页数无上限，KV 缓存降 96%，3600 页一次读完）；OpenBot 给每个 AI 代理一间独立办公室（日增 900 Star）；ChatGPT 上线 iCloud 邮件日历插件；Replit Cloud Agents 自然语言直接变 PR；iOS 27.2 Siri 支持跨轮记忆 |
 | 2026-10-27 | [brief-2026-10-27.md](./2026-10-27/brief-2026-10-27.md) | [brief-2026-10-27.mp3](./2026-10-27/brief-2026-10-27.mp3) | JetBrains 开源多 Agent 并行 IDE thinkrail（日增 1000+ Star）；PaperPilot 纯 Rust 本地 PDF 工具箱登 HN 热帖（文件零上传）；GPT-6.1 Terra 发布（1M 上下文，单任务成本约 Opus 5.5 的 1/9）；OpenAI 宣布三项科学突破并开源证明；即梦 AI 短剧工作室上线 |
