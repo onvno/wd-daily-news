@@ -11,6 +11,7 @@
 
 | 日期 | 文本简报 | 语音版 | 当日亮点 |
 |------|----------|--------|----------|
+| 2026-11-01 | [brief-2026-11-01.md](./2026-11-01/brief-2026-11-01.md) | [brief-2026-11-01.mp3](./2026-11-01/brief-2026-11-01.mp3) | Vercel 开源 Agent Desktop（无障碍树精准操控桌面应用，24h 涨 1800+ Star）；OpenMontage 把编码 Agent 变成视频工厂（12 条流水线 700+ 技能）；Neuralink 患者意念唤醒 Grok Agent；Cursor 市场现后门版 Claude Code（约 5000 用户受影响）；Grok Bot 获自主购物能力；DeepSeek 新仓库 dsh-superagent-prototype 首日 2100+ Star |
 | 2026-10-31 | [brief-2026-10-31.md](./2026-10-31/brief-2026-10-31.md) | [brief-2026-10-31.mp3](./2026-10-31/brief-2026-10-31.mp3) | Qwenputer 把一台 RISC-V CPU 编译进 Qwen3.5-4B 权重（1800 万条指令零错误，HN 首页第一）；claude-mem 给编码 Agent 装跨会话记忆（日增 300+ Star）；Cursor 开源 Bugbot 同款 Agent SDK；ElevenLabs 发布 SFX v3；Stack Overflow 月提问量史上首次跌破 1000 条；AWS Bedrock token 量暴增 17 倍 |
 | 2026-10-30 | [brief-2026-10-30.md](./2026-10-30/brief-2026-10-30.md) | [brief-2026-10-30.mp3](./2026-10-30/brief-2026-10-30.mp3) | taste-skill 给编程 AI 装"审美"爆火（10.4 万 Star，浏览器自检反 AI 味页面）；英伟达开源语音模型 Nemotron 3.5 Transcribe（转写分人翻译三合一，40 语种可商用）；Mistral Large 4 万亿参数权重兑现开放；腾讯发布 Buddy One 跨应用协同；LangChain 深度智能体 0.10 公测（自带浏览器 + 异步子智能体）；OpenAI 订阅用户每月最高 500 美元 API 额度 |
 | 2026-10-29 | [brief-2026-10-29.md](./2026-10-29/brief-2026-10-29.md) | [brief-2026-10-29.mp3](./2026-10-29/brief-2026-10-29.mp3) | 谷歌发布新旗舰 Gemini 4 Carbon（安全与长程任务登顶 AA v5）；AA Intelligence Index v5 改用私有题库 + 维护者打分；HKUDS 开源自托管 AI 导师 DeepTutor（46.5K Star）；karpathy-skills 一份 CLAUDE.md 少踩坑（226K Star）；Genie 4 世界模型新增原生音频；Cloudflare 披露 GLM-5.3 串户 bug |
