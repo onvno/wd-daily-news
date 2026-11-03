@@ -11,6 +11,7 @@
 
 | 日期 | 文本简报 | 语音版 | 当日亮点 |
 |------|----------|--------|----------|
+| 2026-11-03 | [brief-2026-11-03.md](./2026-11-03/brief-2026-11-03.md) | [brief-2026-11-03.mp3](./2026-11-03/brief-2026-11-03.mp3) | 美团 LongCat-2.5 发布（1.6T 原生多模态，长程智能体编码，API 上线送千万 token）；谷歌开源大象金鱼模型冲上 GitHub 日榜（大象写规格、金鱼挑盲点）；SemiAnalysis GDPx 基准最强模型仅 12 分；Claude 旧模型今日起加不可见水印；Kimi K3.1 Pro 权重明日开源；英伟达 Rubin 实测 9–21 倍 token/美元但规格被悄悄下调 |
 | 2026-11-02 | [brief-2026-11-02.md](./2026-11-02/brief-2026-11-02.md) | [brief-2026-11-02.mp3](./2026-11-02/brief-2026-11-02.mp3) | Karpathy 用 Claude Code 2 小时上线 HackerTube（4300 万条 HN 评论筛出 6454 个口碑视频）；Zig 从零写的 Agent 专用浏览器 Lightpanda 走红；GPT-6.2 Astra 抓包灰度 + Claude Mythos 5.5 源码泄露同日撞车；千问集成 Apple 智能 12 月推送；50 个 Agent 在 Minecraft 被自己的官僚主义拖垮；DOJ 反垄断问询英伟达 130 亿收购 Hugging Face |
 | 2026-11-01 | [brief-2026-11-01.md](./2026-11-01/brief-2026-11-01.md) | [brief-2026-11-01.mp3](./2026-11-01/brief-2026-11-01.mp3) | Vercel 开源 Agent Desktop（无障碍树精准操控桌面应用，24h 涨 1800+ Star）；OpenMontage 把编码 Agent 变成视频工厂（12 条流水线 700+ 技能）；Neuralink 患者意念唤醒 Grok Agent；Cursor 市场现后门版 Claude Code（约 5000 用户受影响）；Grok Bot 获自主购物能力；DeepSeek 新仓库 dsh-superagent-prototype 首日 2100+ Star |
 | 2026-10-31 | [brief-2026-10-31.md](./2026-10-31/brief-2026-10-31.md) | [brief-2026-10-31.mp3](./2026-10-31/brief-2026-10-31.mp3) | Qwenputer 把一台 RISC-V CPU 编译进 Qwen3.5-4B 权重（1800 万条指令零错误，HN 首页第一）；claude-mem 给编码 Agent 装跨会话记忆（日增 300+ Star）；Cursor 开源 Bugbot 同款 Agent SDK；ElevenLabs 发布 SFX v3；Stack Overflow 月提问量史上首次跌破 1000 条；AWS Bedrock token 量暴增 17 倍 |
