@@ -11,6 +11,7 @@
 
 | 日期 | 文本简报 | 语音版 | 当日亮点 |
 |------|----------|--------|----------|
+| 2026-11-05 | [brief-2026-11-05.md](./2026-11-05/brief-2026-11-05.md) | [brief-2026-11-05.mp3](./2026-11-05/brief-2026-11-05.mp3) | 腾讯混元 Hy4 正式版发布（770B 首次能看能动手，开源第一）；NVIDIA auto-ontology 单日 +2053 Star 登顶 GitHub Trending；Anthropic 开源 FlashProve 零知识验模型身份（CPU 17 秒）；MIT 让 GPT-6 Astra 改千问 0.016% 权重数学成绩涨 6 倍；京东宣布 5 年采购 300 万台机器人；Meta 收购 AI 编程公司 Conductor；OpenAI 收购 Pierre Computer 补强 Codex |
 | 2026-11-04 | [brief-2026-11-04.md](./2026-11-04/brief-2026-11-04.md) | [brief-2026-11-04.mp3](./2026-11-04/brief-2026-11-04.mp3) | Kimi K3.1 Pro 2.8T 权重如期开放成最强开放模型；T3 Code 给编码 Agent 装统一控制面板（日增 3000 Star）；Claude-Code-Game-Studios 用 49 个 Agent 复刻游戏工作室分工；DeepSeek V5 拟首上昇腾预训练；微软 MAI-DxO 诊断登 Science（83% vs 医生 36%）；Canva 发布首个自研生图模型 Craft |
 | 2026-11-03 | [brief-2026-11-03.md](./2026-11-03/brief-2026-11-03.md) | [brief-2026-11-03.mp3](./2026-11-03/brief-2026-11-03.mp3) | 美团 LongCat-2.5 发布（1.6T 原生多模态，长程智能体编码，API 上线送千万 token）；谷歌开源大象金鱼模型冲上 GitHub 日榜（大象写规格、金鱼挑盲点）；SemiAnalysis GDPx 基准最强模型仅 12 分；Claude 旧模型今日起加不可见水印；Kimi K3.1 Pro 权重明日开源；英伟达 Rubin 实测 9–21 倍 token/美元但规格被悄悄下调 |
 | 2026-11-02 | [brief-2026-11-02.md](./2026-11-02/brief-2026-11-02.md) | [brief-2026-11-02.mp3](./2026-11-02/brief-2026-11-02.mp3) | Karpathy 用 Claude Code 2 小时上线 HackerTube（4300 万条 HN 评论筛出 6454 个口碑视频）；Zig 从零写的 Agent 专用浏览器 Lightpanda 走红；GPT-6.2 Astra 抓包灰度 + Claude Mythos 5.5 源码泄露同日撞车；千问集成 Apple 智能 12 月推送；50 个 Agent 在 Minecraft 被自己的官僚主义拖垮；DOJ 反垄断问询英伟达 130 亿收购 Hugging Face |
