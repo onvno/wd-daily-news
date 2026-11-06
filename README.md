@@ -11,6 +11,7 @@
 
 | 日期 | 文本简报 | 语音版 | 当日亮点 |
 |------|----------|--------|----------|
+| 2026-11-06 | [brief-2026-11-06.md](./2026-11-06/brief-2026-11-06.md) | [brief-2026-11-06.mp3](./2026-11-06/brief-2026-11-06.mp3) | Matt Pocock 开源编码技能包让 AI 先问再写（日增 2000+ Star）；百度开源文心 5.5 Flash Base（280B 参数仅激活 14B，MMLU 93.3）；OpenAI 发布网络安全模型 GPT-6 Cyber（基准提升 51%，揪出 Firefox 81 个漏洞）；Gemini Omni 1.2 Flash 视频生成提至 15 秒成本降 30%；GPT-Image-2.6 全量上线原生直出 GIF 与 SVG；Postman 被曝静默装 AI 插件登 HN 热榜第一 |
 | 2026-11-05 | [brief-2026-11-05.md](./2026-11-05/brief-2026-11-05.md) | [brief-2026-11-05.mp3](./2026-11-05/brief-2026-11-05.mp3) | 腾讯混元 Hy4 正式版发布（770B 首次能看能动手，开源第一）；NVIDIA auto-ontology 单日 +2053 Star 登顶 GitHub Trending；Anthropic 开源 FlashProve 零知识验模型身份（CPU 17 秒）；MIT 让 GPT-6 Astra 改千问 0.016% 权重数学成绩涨 6 倍；京东宣布 5 年采购 300 万台机器人；Meta 收购 AI 编程公司 Conductor；OpenAI 收购 Pierre Computer 补强 Codex |
 | 2026-11-04 | [brief-2026-11-04.md](./2026-11-04/brief-2026-11-04.md) | [brief-2026-11-04.mp3](./2026-11-04/brief-2026-11-04.mp3) | Kimi K3.1 Pro 2.8T 权重如期开放成最强开放模型；T3 Code 给编码 Agent 装统一控制面板（日增 3000 Star）；Claude-Code-Game-Studios 用 49 个 Agent 复刻游戏工作室分工；DeepSeek V5 拟首上昇腾预训练；微软 MAI-DxO 诊断登 Science（83% vs 医生 36%）；Canva 发布首个自研生图模型 Craft |
 | 2026-11-03 | [brief-2026-11-03.md](./2026-11-03/brief-2026-11-03.md) | [brief-2026-11-03.mp3](./2026-11-03/brief-2026-11-03.mp3) | 美团 LongCat-2.5 发布（1.6T 原生多模态，长程智能体编码，API 上线送千万 token）；谷歌开源大象金鱼模型冲上 GitHub 日榜（大象写规格、金鱼挑盲点）；SemiAnalysis GDPx 基准最强模型仅 12 分；Claude 旧模型今日起加不可见水印；Kimi K3.1 Pro 权重明日开源；英伟达 Rubin 实测 9–21 倍 token/美元但规格被悄悄下调 |
