@@ -11,6 +11,7 @@
 
 | 日期 | 文本简报 | 语音版 | 当日亮点 |
 |------|----------|--------|----------|
+| 2026-11-14 | [brief-2026-11-14.md](./2026-11-14/brief-2026-11-14.md) | [brief-2026-11-14.mp3](./2026-11-14/brief-2026-11-14.mp3) | n8n 开源本地个人智能体 Nod（自带沙箱电脑和浏览器，把杂活真正干完）；llama.cpp 发布 3.5 年来首个 1.0 稳定版（C API 进入语义化版本，FP8 缓存显存减半）；英伟达官宣黄仁勋辞任 CEO、CFO 临时接任；OpenAI 上线 ChatGPT Wallet 让 Agent 安全代付；Cloudflare 开源 Agent 专用浏览器引擎 Kitesurf；Gemini Glasses 开启预购 395 美元起；美联航禁止 AI Agent 代客订票 |
 | 2026-11-13 | [brief-2026-11-13.md](./2026-11-13/brief-2026-11-13.md) | [brief-2026-11-13.mp3](./2026-11-13/brief-2026-11-13.mp3) | Gemini 4 Hydrogen 发布：1M 上下文统一价反超旗舰；开源 Claude-Cage 给 Claude 打造防封隔离工作区 |
 | 2026-11-12 | [brief-2026-11-12.md](./2026-11-12/brief-2026-11-12.md) | [brief-2026-11-12.mp3](./2026-11-12/brief-2026-11-12.mp3) | DeepMind 用 AlphaProof Code 5 人 4 周、650 万行 Lean 证明把 Signal 协议核心验证到机器码级；阿里开源 Qwen Code 1.0 编码智能体内核（Apache 2.0）；OpenDataLoader PDF 纯 CPU 每秒 100 页登 GitHub Trending 榜首；Fireworks AI 承认数据泄露面扩大波及客户数据集与部分模型权重；谷歌发布 Gemini Decisions API（单次 1000 题打分、成本 1/5）；AWS 开源 aws-emulator（Agent 集群 3 周 29,684 次 commit）；美团 LongCat-2.5 权重 MIT 开源 |
 | 2026-11-11 | [brief-2026-11-11.md](./2026-11-11/brief-2026-11-11.md) | [brief-2026-11-11.mp3](./2026-11-11/brief-2026-11-11.mp3) | MiniMax 发布并当天开源 H3-Image（原生 4K 十秒出图、16 张参考图、ComfyUI 当天原生支持）；caveman 让 Agent 少说少读 token 成本砍半（HN+GitHub 双登顶，11.9 万 Star）；谷歌 Gemini 4 Carbon 正式全面开放（Wiz 两小时挖出 2 个 0-day）；Meta 最小号模型 Muse Ember 追平 Haiku 5.5 成本仅三分之一；火山引擎豆包编程模型刷新 SWE-Bench SOTA 且成本降 62.7%；英伟达 GR00T 2 机器人模型看 5 个示范成功率 95%；Anthropic 启动 IPO 路演估值最高 1.4 万亿美元 11·18 挂牌 |
