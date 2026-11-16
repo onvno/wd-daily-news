@@ -11,6 +11,7 @@
 
 | 日期 | 文本简报 | 语音版 | 当日亮点 |
 |------|----------|--------|----------|
+| 2026-11-16 | [brief-2026-11-16.md](./2026-11-16/brief-2026-11-16.md) | [brief-2026-11-16.mp3](./2026-11-16/brief-2026-11-16.mp3) | 腾讯开源 LoopForge 编码 Agent 交付流水线（需求进 PR 出，Docker 沙箱+人工审批关口）；Runway 全量开源 27B 机器人世界动作模型 Praxis-1（Apache 2.0，RTX 5090 可跑）；Anthropic 首次公开安全评估方法论（API 与产品端安全分差 34 个百分点）；NVIDIA 两台工作站跑满 753B GLM-5.3；字节 Seedream 5.0 Pro 上线 fal 美国托管；姚期智×杨植麟 TCSExam 基准（30 道开放猜想无一攻破）；FT 称黄仁勋考虑重返英伟达 |
 | 2026-11-15 | [brief-2026-11-15.md](./2026-11-15/brief-2026-11-15.md) | [brief-2026-11-15.mp3](./2026-11-15/brief-2026-11-15.mp3) | 开源全双工语音模型 Sophon-Realtime v1（边听边说随时打断，VoiceBench 82.8 开源第一）；magpie 菜单栏给所有编程 Agent 换模型、配额自动无感切换；DeepSeek 开放全家桶应用 API（搜索/OCR/语音均可独立调用，可 1:1 复刻官方 App）；Perplexity 开源决策模型 Decider v1.3；Claude Code Projects 升级并行 AI 工人；Vercel Workflow SDK 5 长任务开销降 25 倍；LangChain 估值飙至 30 亿美元 |
 | 2026-11-14 | [brief-2026-11-14.md](./2026-11-14/brief-2026-11-14.md) | [brief-2026-11-14.mp3](./2026-11-14/brief-2026-11-14.mp3) | n8n 开源本地个人智能体 Nod（自带沙箱电脑和浏览器，把杂活真正干完）；llama.cpp 发布 3.5 年来首个 1.0 稳定版（C API 进入语义化版本，FP8 缓存显存减半）；英伟达官宣黄仁勋辞任 CEO、CFO 临时接任；OpenAI 上线 ChatGPT Wallet 让 Agent 安全代付；Cloudflare 开源 Agent 专用浏览器引擎 Kitesurf；Gemini Glasses 开启预购 395 美元起；美联航禁止 AI Agent 代客订票 |
 | 2026-11-13 | [brief-2026-11-13.md](./2026-11-13/brief-2026-11-13.md) | [brief-2026-11-13.mp3](./2026-11-13/brief-2026-11-13.mp3) | Gemini 4 Hydrogen 发布：1M 上下文统一价反超旗舰；开源 Claude-Cage 给 Claude 打造防封隔离工作区 |
